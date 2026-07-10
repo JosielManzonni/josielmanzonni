@@ -176,7 +176,7 @@ Experience designing systems with:
 
 | Metric | Impact |
 |---|---|
-| Experience | 12+ years |
+| Experience | 14+ years |
 | Markets | LATAM, EMEA, MEA |
 | Domains | Payments, Mobile, Cloud, Security |
 | Platforms | Android & Backend |
