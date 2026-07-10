@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a software engineer with **12+ years of experience** designing and delivering:
+I'm a software engineer with **14+ years of experience** designing and delivering:
 
 - High-scale backend platforms
 - Android applications
